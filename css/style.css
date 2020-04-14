@@ -13,13 +13,14 @@
 .h1 {
     color: white;
     text-align: center;
-    font-family: 
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
     position: relative;
     margin: auto;
     border-radius: 0px;
     box-shadow: 25px 10px 10px 10px silver;
 }
+
 .h2 {
     color: white;
     text-align: center;
