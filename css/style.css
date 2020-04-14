@@ -1,6 +1,19 @@
+.bg {
+    background-image: url(/img/index/bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+}
+.imagem {
+    width: 15;
+    height: 15;
+}
+
 .h1 {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 
     font-size: 30px;
     position: relative;
     margin: auto;
@@ -8,8 +21,9 @@
     box-shadow: 25px 10px 10px 10px silver;
 }
 .h2 {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 22px;
     position: relative;
     margin: auto;
@@ -17,8 +31,9 @@
     box-shadow: 25px 10px 10px 10px silver;
 }
 .h3 {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 15px;
     position: relative;
     margin: auto;
@@ -26,8 +41,9 @@
     box-shadow: 25px 10px 10px 10px silver;
 }
 .h4 {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 12px;
     position: relative;
     margin: auto;
@@ -35,7 +51,9 @@
     box-shadow: 25px 10px 10px 10px silver;
 }
 .p {
-    color: black;
-    text-align: justify;
+    color: white;
+    text-align: left;
+    left: 20px;
+    font-family: 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
 }
